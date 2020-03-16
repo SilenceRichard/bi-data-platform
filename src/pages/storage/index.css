@@ -1,0 +1,49 @@
+.Header {
+  height: 8vh;
+  padding: 0;
+}
+.subHeader {
+  padding: 0 1.6927vw;
+  height: 8vh;
+  margin: 1.3vh 0;
+  background: unset;
+}
+
+.ant-layout {
+  background-image: radial-gradient(50% 100%, #090F22 0%, #050919 100%);
+}
+
+.content {
+  margin: 0 1.6927vw;
+  height: 83.5185vh;
+  min-height: unset!important;
+}
+
+.gridCol {
+  padding: 0 0.4167vw 0.7407vh 0;
+  height: 37vh;
+}
+
+.gridColLast {
+  padding: 0;
+}
+
+.first-gridCol {
+  padding-top: .7vh;
+}
+
+.second-gridCol {
+  padding-top: 1.5vh;
+}
+
+.wrapper {
+  background: rgba(31,83,255,0.08);
+  border: 1px solid rgba(230,234,255,0.12);
+  border-radius: 8px;
+  border-radius: 8px; 
+  height: 37vh;
+}
+
+.echarts-for-react {
+  height: 100% !important;
+}

@@ -1,0 +1,19 @@
+.Header {
+  height: 8vh;
+  padding: 0;
+}
+.subHeader {
+  padding: 0 1.6927vw;
+  height: 8vh;
+  margin: 1.3vh 0;
+  background: unset;
+}
+
+.ant-layout {
+  background-image: radial-gradient(50% 100%, #090F22 0%, #050919 100%);
+}
+
+.ant-layout-content {
+  padding: 0 2.5rem;
+  height: 117.25rem;
+}

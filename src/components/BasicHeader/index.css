@@ -1,0 +1,50 @@
+/* 基础信息部分样式 */
+
+.mainHeaderRow {
+    background: rgba(126, 149, 224, 0.12);
+    height: 8vh;
+    line-height: 8vh;
+}
+.label-wrapper {
+    margin-right: 3.3vw;
+}
+.label,
+.item {
+    font-size: 1.85vh;
+    color: #e6eaff;
+}
+
+.labelFirst {
+    margin: 0 0 0 2.5rem;
+}
+
+.item {
+    opacity: 0.8;
+    margin: 0 0 0 0.625rem;
+}
+
+/* 统计部分样式 */
+
+.ant-row-flex-space-around {
+    align-items: center;
+    background: rgba(31, 83, 255, 0.08);
+    border: 1px solid rgba(230, 234, 255, 0.12);
+    border-radius: 0.5rem;
+    border-radius: 0.5rem;
+    height: 100%;
+}
+
+.ant-statistic-content,
+.ant-statistic-content-suffix {
+    color: #e6eaff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.ant-statistic-content-suffix {
+    color: #e6eaff;
+    opacity: 0.45;
+    font-size: 1.3vh;
+}

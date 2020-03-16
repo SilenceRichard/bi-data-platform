@@ -1,0 +1,39 @@
+.chartItem {
+  background: rgba(31,83,255,0.08);
+  border: 1px solid rgba(230,234,255,0.12);
+  border-radius: 8px;
+  border-radius: 8px; 
+  height: 100%;
+}
+
+h3{
+  position: absolute;
+  opacity: 0.8;
+  font-family: PingFangSC-Semibold;
+  font-size: 24px;
+  color: #E6EAFF;
+  letter-spacing: 0;
+}
+
+.wrapper {
+  padding: .5rem 0;
+  padding-right: 1rem;
+  height: 28.4375rem;
+  position: relative;
+}
+
+.wrapper-map{
+  height: 44.1875rem;
+}
+
+.wrapper-statics{
+  height: 41.125rem;
+}
+
+.echarts-for-react {
+  height: 100% !important;
+}
+
+.map {
+  height: 43.1875rem;
+}
