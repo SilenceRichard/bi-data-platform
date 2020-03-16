@@ -15,6 +15,7 @@
     "customize-cra": "^0.9.1",
     "echarts": "^4.5.0",
     "echarts-for-react": "^2.0.15-beta.1",
+    "es6-promise-promise": "^1.0.0",
     "eslint": "^6.6.0",
     "eslint-config-alloy": "^3.2.0",
     "eslint-plugin-react": "^7.16.0",
